@@ -7,5 +7,5 @@ Standards-Version: 3.8.0
 
 Package: erlang-mysql-driver
 Architecture: any
-Depends: ${erlang-nox:Depends}
+Depends: erlang-nox
 Description: Erlang MySQL Driver
