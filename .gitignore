@@ -23,5 +23,7 @@ debian/files
 debian/erlang-mysql-driver.debhelper.log
 debian/erlang-mysql-driver.substvars
 debian/erlang-mysql-driver
+debian/stamp-autotools
 debian/stamp-autotools-files
 debian/stamp-makefile-build
+debian/stamp-makefile-install

@@ -8,5 +8,4 @@ debian/stamp-autotools-files:
 	touch $@
 
 install/erlang-mysql-driver::
-	erlang-depends
 
